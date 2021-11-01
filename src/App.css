@@ -36,3 +36,54 @@
     transform: rotate(360deg);
   }
 }
+
+
+#principles {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  padding-top: 5vh;
+}
+
+#principles img {
+width: 125px;
+}
+
+#principles div {
+  width: 20vh;
+}
+
+
+#main {
+  background-color: #1b1b2d;
+  height: 70vh;
+}
+
+#main-text {
+  width: 70vh;
+  margin: 0;
+  padding-left: 100px;
+  
+}
+
+#main-text h3{
+  color: whitesmoke;
+  font-size: 70px;
+  margin-bottom: 20px;
+}
+
+#main-text h4{
+  color: whitesmoke;
+  font-size: 30px;
+  font-weight:normal;
+  width: 70vh;
+  margin-top: 0px;
+  
+}
+
+#nav {
+  display: flex;
+  justify-content:space-between;
+  margin: auto 100px;
+  padding-top: 15px;
+}
